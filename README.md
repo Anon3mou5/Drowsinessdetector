@@ -14,10 +14,10 @@ An OpenCV and Dlib Project which Detects DROWSINESS of a Person while Driving an
 #### pip install dlib
 
 ## scipy v1.5.2
-####pip install scipy
+#### pip install scipy
 
 ## playsound v1.2.1
-####pip install playsound
+#### pip install playsound
 
 ## argparse v1.4.0
 #### pip install argparse
